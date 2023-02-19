@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # This calculator is my one learning path
 
+=======
+>>>>>>> 7e2730752f99bfa8377fe3e6327fcd75cfa11c38
 # This function adds two numbers
 def add(x, y):
     return x + y
